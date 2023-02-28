@@ -4,8 +4,11 @@ Protótipo Figma PROA
 Link dos sites em 5 em 5 anos, o site é The New York Times:
 
 Em 1999: https://web.archive.org/web/19990422141514/http://www4.nytimes.com:80/
+
 Em 2004: https://web.archive.org/web/20040131073659/http://www.nytimes.com/
+
 Em 2009: https://web.archive.org/web/20090801020914/http://www.nytimes.com/
+
 Em 2014: https://web.archive.org/web/20141101000852/http://www.nytimes.com/
 
 Fiz algumas melhorias nele, colando imagens e melhoranndo a organização:
